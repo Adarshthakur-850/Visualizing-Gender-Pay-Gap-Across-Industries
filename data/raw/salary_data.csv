@@ -1,0 +1,1001 @@
+employee_id,gender,age,education,industry,years_experience,location,salary
+0,Male,38,High School,Education,26,London,97133.44987754035
+1,Female,30,PhD,Finance,24,London,218213.35470274265
+2,Male,54,PhD,Healthcare,9,Bangalore,141968.8043145394
+3,Male,41,High School,Finance,22,San Francisco,142189.23741739627
+4,Male,34,Master,Tech,20,London,209262.5791291046
+5,Female,49,Master,Finance,20,San Francisco,167101.10223514543
+6,Male,50,PhD,Tech,12,London,199763.57194003245
+7,Male,34,Bachelor,Tech,36,Bangalore,250027.75395357682
+8,Male,56,Master,Healthcare,32,Remote,209322.79729664096
+9,Female,27,Master,Education,23,Bangalore,119513.17787441085
+10,Male,39,High School,Finance,10,New York,108585.22123604338
+11,Male,26,High School,Tech,16,London,140396.92988480104
+12,Male,46,Bachelor,Finance,3,New York,101866.5314159138
+13,Male,23,Master,Education,24,New York,140497.7258305087
+14,Female,31,Master,Education,29,San Francisco,138522.4733622662
+15,Male,51,High School,Retail,8,London,69888.05722002346
+16,Female,26,Master,Education,20,New York,111756.68992418853
+17,Female,54,PhD,Healthcare,19,Remote,159079.99776139582
+18,Female,22,High School,Tech,18,New York,121835.30439657244
+19,Male,39,Bachelor,Retail,18,Remote,90875.6411870008
+20,Female,53,High School,Healthcare,11,San Francisco,91539.41047010376
+21,Male,32,Master,Finance,36,New York,259769.4542978964
+22,Female,42,Bachelor,Tech,16,Bangalore,146445.33775062335
+23,Female,47,High School,Education,36,San Francisco,113224.21368665788
+24,Female,46,PhD,Tech,38,Remote,297573.8369956077
+25,Female,43,PhD,Finance,27,San Francisco,229903.65300402592
+26,Female,48,High School,Retail,34,New York,88561.3665619487
+27,Female,34,PhD,Retail,17,London,113411.1404644128
+28,Female,54,PhD,Retail,13,London,104988.36405898184
+29,Female,55,PhD,Education,34,Remote,162022.9250525347
+30,Male,56,Bachelor,Healthcare,6,Remote,97497.0725050589
+31,Male,22,PhD,Healthcare,12,London,163324.29487532473
+32,Female,42,PhD,Tech,17,Remote,203593.4759181112
+33,Female,27,PhD,Education,36,San Francisco,173233.80383500454
+34,Female,49,Bachelor,Retail,12,Bangalore,63309.18940194551
+35,Male,38,High School,Retail,35,Bangalore,111364.72275911433
+36,Female,26,Master,Finance,30,San Francisco,217402.57607472248
+37,Male,52,PhD,Finance,1,Bangalore,120763.06806129124
+38,Male,26,High School,Retail,15,New York,76349.45526937496
+39,Male,59,PhD,Retail,8,San Francisco,84925.98219121067
+40,Male,24,Bachelor,Education,8,Remote,77305.56922916294
+41,Male,44,High School,Healthcare,37,San Francisco,162356.92648313937
+42,Female,58,Bachelor,Finance,10,London,125691.90664423918
+43,Female,58,PhD,Healthcare,21,Remote,175334.76904059923
+44,Female,31,PhD,Education,32,London,162836.78656849638
+45,Female,31,Bachelor,Retail,35,Remote,108384.60827551153
+46,Female,40,Master,Healthcare,22,Bangalore,154718.01160470696
+47,Male,38,Bachelor,Retail,33,San Francisco,118409.5226955968
+48,Female,42,PhD,Retail,8,New York,80653.88816997653
+49,Female,35,Bachelor,Tech,23,Remote,172831.42262445937
+50,Male,30,Master,Healthcare,7,Remote,106101.11807078705
+51,Female,22,Bachelor,Healthcare,6,London,81728.84877291552
+52,Male,34,Master,Retail,35,Bangalore,147284.90563196424
+53,Female,25,Master,Education,17,London,106446.27341551965
+54,Male,22,Bachelor,Tech,2,London,105752.83600678053
+55,Female,53,Bachelor,Retail,27,Bangalore,99636.0275510752
+56,Female,55,High School,Finance,5,New York,81954.41693172374
+57,Male,49,PhD,Finance,20,London,221667.47698385172
+58,Male,52,Master,Tech,27,London,242410.7111013111
+59,Male,29,High School,Education,39,Remote,128855.66864343832
+60,Male,47,Bachelor,Retail,0,Bangalore,49355.20794270753
+61,Male,55,PhD,Healthcare,35,San Francisco,258015.47369791477
+62,Male,24,High School,Tech,20,New York,149285.54347251658
+63,Male,33,Master,Education,34,New York,169709.06978169884
+64,Male,22,High School,Healthcare,12,Bangalore,104844.36215633542
+65,Female,26,Master,Finance,9,Remote,126066.36639313377
+66,Female,51,Bachelor,Finance,9,Remote,109944.86230565645
+67,Male,51,PhD,Healthcare,12,Bangalore,160355.74019985276
+68,Female,38,PhD,Tech,36,Remote,284475.5378993553
+69,Female,44,PhD,Finance,37,New York,284860.88481346687
+70,Female,36,Bachelor,Retail,23,New York,90440.58902593669
+71,Female,58,Master,Healthcare,1,San Francisco,90235.16517554509
+72,Male,42,Bachelor,Healthcare,21,Bangalore,145146.0466856961
+73,Female,35,PhD,Finance,16,London,176718.05236108156
+74,Male,23,Bachelor,Tech,35,London,242877.72301065992
+75,Female,32,Bachelor,Retail,13,San Francisco,86713.61515268665
+76,Female,59,Bachelor,Tech,9,San Francisco,119824.95861822154
+77,Female,55,Master,Education,34,Remote,147068.20724577378
+78,Male,59,High School,Education,24,San Francisco,83774.50228366471
+79,Female,55,High School,Finance,2,San Francisco,82357.51451728061
+80,Male,39,Bachelor,Finance,37,London,233710.82661421003
+81,Female,51,High School,Finance,16,Remote,106133.08068972541
+82,Male,36,High School,Education,11,San Francisco,60955.57268976557
+83,Female,48,Bachelor,Tech,23,San Francisco,163053.84358417368
+84,Male,55,Bachelor,Tech,28,Remote,213105.84562686412
+85,Male,59,PhD,Finance,24,Bangalore,245196.95709807044
+86,Female,54,High School,Retail,35,Remote,91383.33027815606
+87,Male,45,Master,Tech,25,London,233496.30015691402
+88,Female,36,Bachelor,Education,37,Bangalore,134714.38560495575
+89,Female,51,PhD,Healthcare,0,New York,94163.65146572891
+90,Female,38,Master,Healthcare,19,Remote,152690.9841334265
+91,Female,26,High School,Healthcare,27,London,118775.3219938598
+92,Female,50,PhD,Retail,15,Bangalore,108137.69606796947
+93,Female,25,Bachelor,Finance,16,Remote,134117.3922299282
+94,Female,31,Master,Education,39,San Francisco,170187.6834098352
+95,Female,38,Bachelor,Retail,27,Remote,94813.46988259266
+96,Female,31,High School,Education,11,New York,63042.139606999364
+97,Female,38,Master,Education,26,Remote,128812.93568771175
+98,Female,41,High School,Finance,29,Bangalore,151461.5927391124
+99,Male,45,High School,Healthcare,33,Bangalore,155574.14250309046
+100,Male,26,PhD,Finance,36,Remote,294179.58790876664
+101,Female,55,Bachelor,Retail,5,Bangalore,57413.43795876682
+102,Female,27,Master,Retail,6,San Francisco,70130.65853201361
+103,Female,23,High School,Retail,31,Remote,86961.30887985937
+104,Female,34,High School,Finance,31,San Francisco,158820.2930872971
+105,Female,32,Master,Education,24,San Francisco,116748.15043256109
+106,Female,44,High School,Education,32,London,100967.73055474658
+107,Female,37,PhD,Tech,6,Remote,145034.07937798166
+108,Female,52,PhD,Retail,11,Bangalore,90542.84535225491
+109,Male,32,PhD,Education,15,San Francisco,133955.17729960603
+110,Female,37,PhD,Tech,15,London,199332.278630787
+111,Male,29,High School,Education,35,Remote,125152.08230290611
+112,Female,25,Master,Retail,12,Remote,80568.71359959574
+113,Female,25,Master,Healthcare,6,New York,108698.09138400103
+114,Male,46,Master,Retail,35,New York,148401.81063462902
+115,Female,24,Master,Finance,8,San Francisco,129587.94851751503
+116,Male,53,Bachelor,Education,31,New York,132669.19326190415
+117,Female,24,Master,Education,10,San Francisco,96992.08928689563
+118,Female,48,Bachelor,Finance,7,Bangalore,114349.19302778231
+119,Male,50,Bachelor,Finance,32,San Francisco,214396.48209223553
+120,Female,53,PhD,Healthcare,22,New York,179628.49517244686
+121,Male,40,Bachelor,Education,24,Bangalore,116621.80379127282
+122,Female,42,High School,Education,7,New York,60252.83302268867
+123,Male,26,Bachelor,Healthcare,21,San Francisco,143119.9554407299
+124,Male,39,PhD,Tech,3,London,152531.57857982253
+125,Female,49,Bachelor,Healthcare,39,Remote,179713.77444278548
+126,Female,43,High School,Retail,2,New York,45159.218439987024
+127,Male,42,High School,Education,28,San Francisco,93491.42225103687
+128,Female,27,High School,Finance,28,Bangalore,145646.90736698936
+129,Female,22,PhD,Retail,33,New York,158868.3856645972
+130,Female,26,PhD,Education,33,New York,172220.95747195955
+131,Male,33,Master,Healthcare,27,Remote,199869.34224967266
+132,Male,47,PhD,Retail,12,San Francisco,100855.46166322811
+133,Male,55,High School,Education,14,London,77738.86418400217
+134,Male,35,High School,Tech,22,Bangalore,161509.96126547153
+135,Male,47,PhD,Tech,25,San Francisco,267165.4746735269
+136,Male,48,Bachelor,Finance,3,Bangalore,106030.8293867916
+137,Male,30,PhD,Education,25,New York,166552.9098516503
+138,Male,47,PhD,Tech,39,Remote,332717.72517193033
+139,Male,43,High School,Healthcare,8,Remote,86198.80980277249
+140,Female,51,Master,Education,4,London,64309.572186653226
+141,Male,38,High School,Healthcare,31,Remote,142364.469740322
+142,Female,47,Master,Healthcare,19,New York,153210.92696089487
+143,Female,57,High School,Tech,10,London,100413.25366903938
+144,Female,22,PhD,Education,14,San Francisco,115997.62127062549
+145,Male,29,High School,Retail,31,Remote,106852.42520984041
+146,Male,56,High School,Tech,27,London,170710.3091250403
+147,Male,36,High School,Tech,21,New York,154399.31719899905
+148,Male,43,PhD,Education,16,Bangalore,133604.56064771462
+149,Female,35,PhD,Education,25,Bangalore,137892.52468466718
+150,Male,47,PhD,Healthcare,6,New York,127861.73827349478
+151,Male,49,PhD,Education,25,New York,153381.693941641
+152,Male,44,Master,Healthcare,24,Bangalore,178420.38444958488
+153,Male,35,Master,Tech,9,London,160660.5534904055
+154,Male,45,Bachelor,Finance,18,Bangalore,155952.01634528852
+155,Female,23,PhD,Retail,10,New York,89424.23386534091
+156,Male,47,Master,Tech,12,Remote,165727.69191534384
+157,Female,35,High School,Education,7,San Francisco,63732.11082266851
+158,Male,28,PhD,Retail,39,Remote,177498.45004888333
+159,Female,24,Bachelor,Finance,3,Remote,101694.90275954978
+160,Male,44,Bachelor,Finance,30,New York,203584.64546924684
+161,Male,39,Bachelor,Healthcare,27,Bangalore,157701.0021101846
+162,Female,59,High School,Retail,10,London,55144.86626727188
+163,Female,56,Master,Healthcare,0,Remote,78686.11586266918
+164,Female,36,High School,Tech,37,Bangalore,188946.74688689076
+165,Male,46,PhD,Retail,23,London,133861.18608836568
+166,Female,58,Bachelor,Tech,30,Remote,198816.05127513676
+167,Male,49,High School,Healthcare,25,London,130153.23444976719
+168,Male,31,High School,Retail,4,Bangalore,48263.28848068338
+169,Female,38,Master,Healthcare,19,San Francisco,142971.88995192185
+170,Female,43,Master,Retail,10,Bangalore,82581.11468410764
+171,Male,47,Bachelor,Healthcare,32,New York,179710.23449100155
+172,Male,46,High School,Finance,37,London,189386.5455315081
+173,Female,38,High School,Healthcare,26,San Francisco,121408.9305077892
+174,Female,34,Master,Finance,33,London,223965.69103257114
+175,Female,41,High School,Healthcare,14,London,92043.24286611988
+176,Male,46,High School,Retail,31,Remote,99588.14907346746
+177,Male,25,High School,Retail,20,New York,74029.31500471618
+178,Male,31,Master,Retail,4,London,67009.24003460396
+179,Male,24,Bachelor,Education,5,Bangalore,78171.42046811337
+180,Male,39,PhD,Tech,37,Bangalore,325546.2173360022
+181,Male,57,Bachelor,Retail,21,Remote,94394.19595537997
+182,Female,43,PhD,Finance,17,New York,181440.64197220362
+183,Male,55,High School,Retail,13,New York,71133.3881873712
+184,Male,29,Bachelor,Education,9,Bangalore,75504.37093244579
+185,Male,40,PhD,Finance,12,San Francisco,182259.53669519274
+186,Female,58,Master,Education,30,Remote,130059.07465341705
+187,Male,27,Master,Finance,29,Remote,236938.86400182062
+188,Male,47,Bachelor,Healthcare,2,Bangalore,91420.2812180929
+189,Female,55,Bachelor,Tech,29,Bangalore,196822.60172739008
+190,Male,27,High School,Tech,5,San Francisco,91327.59934297352
+191,Male,58,Bachelor,Education,28,San Francisco,130121.81071954616
+192,Male,54,High School,Tech,7,New York,101463.25500179826
+193,Male,43,High School,Education,32,Remote,107005.14060639196
+194,Male,42,Master,Education,16,Remote,111734.69477121175
+195,Female,27,Master,Education,10,Bangalore,86183.16163326755
+196,Female,27,PhD,Tech,12,New York,175074.75674409856
+197,Female,25,Master,Education,10,Remote,94568.37123952348
+198,Male,51,Master,Tech,30,New York,264159.12998221314
+199,Male,32,Bachelor,Education,27,New York,116706.31731325269
+200,Male,51,Master,Retail,5,Bangalore,70475.83802837705
+201,Female,52,PhD,Education,15,New York,115913.74168022479
+202,Male,45,Bachelor,Finance,3,San Francisco,101544.41754531387
+203,Male,30,PhD,Education,34,San Francisco,188908.9937463926
+204,Female,24,Master,Healthcare,25,London,172579.92677972896
+205,Male,52,PhD,Education,11,Bangalore,117794.82971135022
+206,Female,58,Bachelor,Finance,10,London,120648.66783924916
+207,Female,57,High School,Finance,36,San Francisco,179095.47760459862
+208,Female,45,PhD,Tech,24,London,227255.26358541945
+209,Male,52,PhD,Retail,17,Bangalore,125672.54395977309
+210,Male,27,Bachelor,Education,18,Bangalore,100103.0418295513
+211,Male,23,Bachelor,Tech,22,New York,190045.62610337816
+212,Male,41,PhD,Retail,37,Remote,169443.6688586028
+213,Male,49,Master,Education,17,New York,111881.51804053363
+214,Male,32,PhD,Healthcare,25,Bangalore,214510.58645741016
+215,Male,25,Bachelor,Education,5,San Francisco,61636.34988625077
+216,Female,36,High School,Finance,3,San Francisco,83347.21039144156
+217,Male,27,High School,Finance,28,New York,169539.81751170795
+218,Female,51,Master,Healthcare,33,Bangalore,195768.9242691448
+219,Male,59,PhD,Tech,16,San Francisco,217188.80517789282
+220,Male,23,High School,Retail,15,Bangalore,66231.81927545773
+221,Male,36,PhD,Education,1,San Francisco,85740.24701201834
+222,Female,32,Bachelor,Finance,33,Bangalore,196618.32623203713
+223,Female,29,High School,Tech,7,London,91392.47301988088
+224,Female,47,Master,Healthcare,12,Bangalore,122362.60024955902
+225,Female,26,Bachelor,Finance,7,Bangalore,106723.32287652098
+226,Male,27,Master,Healthcare,29,New York,197619.9890174041
+227,Female,47,Bachelor,Education,31,London,114145.44293325013
+228,Male,25,High School,Retail,35,Remote,109095.1015429195
+229,Male,40,Master,Finance,29,New York,231630.44772049054
+230,Female,41,Master,Finance,0,Remote,98076.82387946655
+231,Female,54,Bachelor,Education,38,San Francisco,133188.66706301286
+232,Female,41,Master,Tech,16,Remote,174576.35736985994
+233,Female,33,Bachelor,Retail,19,Bangalore,85473.48092190702
+234,Female,22,Bachelor,Finance,23,Remote,167343.92194565208
+235,Female,47,Bachelor,Retail,21,New York,90722.99356469492
+236,Female,35,Bachelor,Finance,28,New York,177066.57799081443
+237,Female,59,High School,Retail,21,Remote,69901.4159124872
+238,Male,58,Bachelor,Healthcare,8,New York,108873.76341958324
+239,Female,32,PhD,Finance,36,New York,271867.1195060677
+240,Female,57,Master,Retail,9,Remote,75301.41216701889
+241,Male,34,PhD,Tech,35,London,315940.1419685366
+242,Female,24,High School,Healthcare,36,London,144391.96144671435
+243,Male,54,PhD,Healthcare,27,San Francisco,218875.30502885068
+244,Male,27,Master,Tech,27,New York,249871.03781366293
+245,Female,31,PhD,Retail,20,Remote,109960.88972936154
+246,Male,26,High School,Education,23,New York,90967.47894619196
+247,Male,44,Bachelor,Tech,39,Bangalore,260361.62209077127
+248,Male,31,PhD,Retail,1,New York,71341.97807752465
+249,Male,23,High School,Tech,7,New York,103346.89357962554
+250,Female,34,High School,Tech,26,London,158174.31928386717
+251,Male,23,Master,Finance,21,Remote,191251.02191359122
+252,Female,41,Master,Retail,36,New York,140747.27214626703
+253,Male,22,PhD,Education,26,London,161796.08214660772
+254,Male,58,Bachelor,Finance,28,San Francisco,198212.0106541599
+255,Male,30,High School,Tech,2,London,91330.15477626064
+256,Male,38,PhD,Tech,12,London,192220.08706758684
+257,Female,30,High School,Tech,9,London,107255.91890074953
+258,Female,32,High School,Retail,35,New York,93249.31144260966
+259,Male,36,Bachelor,Retail,8,New York,71740.2450949937
+260,Male,45,Bachelor,Finance,26,San Francisco,194684.62242764572
+261,Female,59,PhD,Education,33,Bangalore,173934.50849923235
+262,Male,56,Bachelor,Finance,0,Bangalore,91064.36832029655
+263,Male,51,Bachelor,Healthcare,31,Bangalore,179723.67637120505
+264,Male,52,PhD,Tech,24,San Francisco,256922.55604898193
+265,Female,26,Bachelor,Tech,28,Bangalore,203318.98113634388
+266,Female,35,Master,Tech,6,Bangalore,134100.6300293691
+267,Female,32,High School,Finance,2,London,76020.29217918467
+268,Male,30,High School,Finance,19,New York,137082.8108672887
+269,Male,55,High School,Tech,19,New York,147235.52707723033
+270,Female,33,High School,Finance,29,London,153383.7177039174
+271,Female,56,PhD,Retail,34,London,149840.00891176722
+272,Female,56,High School,Retail,34,London,92428.36350382412
+273,Female,22,High School,Finance,38,New York,175640.73319136753
+274,Male,43,High School,Tech,26,Bangalore,162601.54147476397
+275,Female,50,High School,Finance,25,London,143591.3720348723
+276,Male,29,Master,Finance,13,San Francisco,159847.47478675513
+277,Female,32,High School,Finance,16,London,109500.2496050764
+278,Male,58,Master,Healthcare,17,Remote,155160.22766717925
+279,Female,35,PhD,Retail,28,London,135029.38685155057
+280,Female,51,Bachelor,Education,19,New York,96288.17237894495
+281,Female,56,High School,Education,26,London,88958.97315301796
+282,Female,42,Bachelor,Healthcare,17,Remote,118997.28720884513
+283,Male,58,Bachelor,Finance,3,San Francisco,106948.59752544247
+284,Female,26,PhD,Healthcare,0,Bangalore,99156.08600247597
+285,Male,40,Bachelor,Healthcare,0,London,82147.6252308834
+286,Male,35,Master,Tech,25,Remote,231169.83806175744
+287,Male,47,Bachelor,Retail,19,Remote,93772.61311666139
+288,Male,25,Bachelor,Education,22,San Francisco,112824.19443855253
+289,Female,46,Bachelor,Finance,9,New York,110959.79130095511
+290,Male,46,High School,Education,10,London,76670.2330007305
+291,Male,39,High School,Education,4,Remote,64077.94016243851
+292,Male,29,Master,Retail,0,San Francisco,65571.22795500484
+293,Female,35,Master,Education,16,Bangalore,101190.69206799201
+294,Female,53,High School,Education,21,Remote,85495.72058975075
+295,Female,59,Master,Healthcare,33,San Francisco,199771.84968884886
+296,Female,54,High School,Retail,28,New York,78684.01549139428
+297,Male,44,PhD,Tech,3,New York,156312.5588084925
+298,Male,36,Bachelor,Finance,4,Remote,98487.06194422104
+299,Female,54,Bachelor,Education,10,Remote,79123.02909854538
+300,Male,46,Master,Finance,20,London,201306.4115312623
+301,Male,38,High School,Tech,34,San Francisco,194134.68267986487
+302,Male,54,High School,Finance,11,Remote,110127.67800088465
+303,Female,23,Master,Tech,25,London,213338.30396323462
+304,Female,35,High School,Healthcare,18,London,112459.40945966936
+305,Male,27,PhD,Education,6,Remote,96802.66181029318
+306,Female,27,Bachelor,Tech,6,New York,107695.22404067028
+307,Female,24,Master,Finance,25,San Francisco,193881.12272196004
+308,Female,28,Master,Education,39,San Francisco,153517.4300385689
+309,Female,29,High School,Healthcare,4,New York,74088.78949357578
+310,Female,36,Master,Education,20,Remote,110829.5847364307
+311,Male,50,PhD,Tech,13,San Francisco,199598.30422967224
+312,Female,54,High School,Healthcare,3,Remote,71748.10565709503
+313,Male,51,High School,Finance,22,Remote,142875.44837795076
+314,Male,48,High School,Healthcare,19,London,119955.451976942
+315,Female,57,High School,Healthcare,14,New York,88409.55748091856
+316,Male,50,PhD,Retail,28,Remote,154041.59714162
+317,Male,59,High School,Healthcare,7,Bangalore,86189.52510632735
+318,Male,54,Master,Healthcare,18,New York,158485.10484590166
+319,Female,58,PhD,Education,38,San Francisco,182094.46743971898
+320,Female,48,Bachelor,Finance,27,London,168286.19352673632
+321,Male,54,Bachelor,Education,26,San Francisco,121716.00371973486
+322,Female,25,Master,Education,3,San Francisco,69851.65107321698
+323,Female,43,Master,Tech,14,New York,157502.83694781217
+324,Female,23,PhD,Education,34,San Francisco,166564.62286546727
+325,Female,31,Bachelor,Retail,36,Remote,116473.77371023741
+326,Male,26,Bachelor,Retail,0,San Francisco,49763.5390752608
+327,Male,31,Bachelor,Tech,2,London,94859.43047474793
+328,Female,54,Bachelor,Finance,23,London,166661.93769804432
+329,Female,59,Bachelor,Finance,26,Bangalore,170649.55062455166
+330,Male,34,High School,Education,39,London,115350.2489538173
+331,Male,52,Master,Education,35,San Francisco,176994.81469839698
+332,Female,57,High School,Education,33,London,110606.96165656594
+333,Male,45,Bachelor,Finance,28,New York,194143.08974465835
+334,Female,36,PhD,Healthcare,23,London,180107.5125431665
+335,Female,50,PhD,Retail,23,Remote,124895.95605380261
+336,Male,29,Bachelor,Healthcare,3,New York,89715.63407442071
+337,Male,26,Bachelor,Healthcare,2,Bangalore,88246.44962400186
+338,Female,50,PhD,Finance,33,Remote,255641.89863372475
+339,Female,25,High School,Healthcare,22,San Francisco,118288.86010485816
+340,Male,33,High School,Tech,22,San Francisco,152732.68938412226
+341,Female,23,Bachelor,Education,4,San Francisco,66043.82874327783
+342,Male,48,High School,Tech,30,Remote,177515.3036977149
+343,Female,52,PhD,Retail,5,Remote,90040.71992876743
+344,Male,57,High School,Education,36,Remote,124257.6167448263
+345,Male,57,Bachelor,Healthcare,9,New York,122133.16138286825
+346,Male,47,PhD,Retail,39,New York,184362.00988163022
+347,Female,48,High School,Education,6,San Francisco,52992.67821565658
+348,Female,26,Master,Healthcare,38,London,215826.90396794598
+349,Male,41,PhD,Tech,37,San Francisco,331862.8890909661
+350,Female,32,PhD,Education,20,Bangalore,131466.62072248882
+351,Male,31,Master,Healthcare,19,New York,165775.96236016028
+352,Male,59,Master,Tech,2,Remote,128548.63564703839
+353,Female,27,PhD,Retail,21,New York,112791.59494617129
+354,Female,29,Master,Retail,3,Remote,57395.70797635023
+355,Male,44,Bachelor,Retail,27,Bangalore,105852.91500692784
+356,Female,47,Bachelor,Retail,11,Bangalore,69757.71197185255
+357,Female,33,Bachelor,Finance,37,New York,207204.1441426329
+358,Male,47,PhD,Education,35,Remote,185202.1471703853
+359,Male,34,Master,Education,4,Bangalore,84264.57105259823
+360,Female,39,Master,Finance,12,San Francisco,146455.2241006824
+361,Male,46,High School,Healthcare,22,San Francisco,124924.64495685429
+362,Male,54,High School,Healthcare,29,Remote,141270.0534741303
+363,Female,33,Master,Retail,36,New York,134748.85948817214
+364,Male,57,Master,Tech,24,Bangalore,222173.34419095513
+365,Male,25,Master,Healthcare,26,New York,193164.70146268673
+366,Female,26,PhD,Tech,13,San Francisco,178882.53559173408
+367,Female,58,Master,Education,35,Bangalore,152246.95233346408
+368,Male,29,High School,Tech,38,New York,216210.0519813602
+369,Male,49,PhD,Education,15,London,125058.71127655327
+370,Female,52,Master,Finance,21,Remote,185123.51070359594
+371,Female,30,High School,Finance,20,Remote,128843.54508017834
+372,Female,50,PhD,Retail,20,London,116757.33781630527
+373,Female,35,Master,Healthcare,7,San Francisco,109671.74220952377
+374,Male,43,Master,Retail,15,Bangalore,98085.46715364537
+375,Female,32,Master,Education,30,Remote,138773.8798439672
+376,Female,44,PhD,Retail,9,London,84299.43025887138
+377,Male,22,High School,Tech,31,London,185007.28560567048
+378,Female,58,High School,Education,33,San Francisco,101473.87002108252
+379,Male,42,Bachelor,Finance,8,San Francisco,126996.275465383
+380,Female,47,Master,Healthcare,16,New York,129262.51285660778
+381,Female,57,Bachelor,Education,10,Remote,78005.26645562741
+382,Female,44,Bachelor,Education,31,New York,122642.9335071114
+383,Male,22,High School,Tech,9,London,113430.07982088019
+384,Male,36,PhD,Healthcare,21,Bangalore,199426.49474432747
+385,Female,42,PhD,Finance,16,Bangalore,182249.38204978526
+386,Male,30,High School,Education,3,San Francisco,56717.169222860255
+387,Male,30,PhD,Education,24,Bangalore,146649.29055906774
+388,Male,31,Bachelor,Tech,20,Bangalore,176123.41558932388
+389,Male,47,Master,Retail,36,Bangalore,154582.68215587613
+390,Male,56,High School,Finance,37,London,184264.1913223176
+391,Male,46,Master,Healthcare,0,Bangalore,93198.71683525374
+392,Female,47,PhD,Education,24,Bangalore,137732.414640581
+393,Female,32,Master,Education,35,Bangalore,150645.06514114133
+394,Male,59,PhD,Finance,16,New York,198959.61255619203
+395,Female,23,PhD,Retail,23,London,116644.02197853285
+396,Female,28,Bachelor,Education,1,San Francisco,58090.016574799
+397,Female,39,PhD,Finance,39,New York,286472.01618987625
+398,Female,48,Bachelor,Tech,14,Remote,143463.145598436
+399,Male,55,Bachelor,Retail,31,London,122244.18953999432
+400,Female,48,Bachelor,Healthcare,38,London,187566.29368544507
+401,Female,38,High School,Education,5,Remote,54667.43372721333
+402,Male,45,High School,Finance,0,Remote,83343.10512301604
+403,Male,46,PhD,Tech,22,Remote,243281.12746304527
+404,Female,28,Bachelor,Healthcare,38,San Francisco,185984.79914614066
+405,Female,27,High School,Finance,16,Bangalore,117096.95208163925
+406,Female,45,Bachelor,Finance,33,London,196045.46326257393
+407,Female,54,Master,Healthcare,28,Bangalore,180303.66117081558
+408,Female,50,Master,Tech,8,Bangalore,133796.3056083227
+409,Female,43,Master,Tech,12,Remote,149416.2659503749
+410,Male,47,PhD,Retail,5,San Francisco,93029.140930385
+411,Female,49,Bachelor,Education,5,New York,63956.389109013646
+412,Female,42,Master,Healthcare,19,San Francisco,146925.0328909665
+413,Male,28,High School,Healthcare,2,Bangalore,65768.45262879354
+414,Male,38,Master,Healthcare,16,San Francisco,144127.10847251583
+415,Male,41,Master,Tech,11,Remote,165878.40560593858
+416,Male,41,Master,Education,0,New York,67592.06039245636
+417,Female,43,PhD,Retail,16,Remote,104968.67178371226
+418,Female,49,High School,Finance,2,New York,76035.76970191087
+419,Female,28,Bachelor,Finance,25,Bangalore,180447.30540630347
+420,Female,22,High School,Healthcare,14,New York,91907.10009630522
+421,Female,53,Bachelor,Education,35,New York,137499.70053971725
+422,Female,34,PhD,Tech,31,New York,277010.1210752247
+423,Male,51,PhD,Education,31,San Francisco,181176.12142635992
+424,Female,44,PhD,Education,3,San Francisco,79464.36833725445
+425,Male,40,PhD,Tech,17,Bangalore,214952.63831933637
+426,Male,53,Bachelor,Healthcare,18,New York,138613.71938666955
+427,Female,51,Master,Education,34,London,153774.06039850472
+428,Male,50,Bachelor,Finance,39,Bangalore,245282.43732141494
+429,Female,50,High School,Tech,13,New York,109250.2102287661
+430,Male,51,PhD,Retail,32,New York,159294.36805407365
+431,Female,37,PhD,Healthcare,13,San Francisco,141200.67704788578
+432,Male,40,High School,Tech,33,Bangalore,188232.6100378154
+433,Female,39,Bachelor,Retail,3,New York,57081.93767117814
+434,Female,22,Master,Retail,23,New York,104123.47615317132
+435,Female,35,Master,Education,28,Bangalore,129438.64411341495
+436,Female,23,High School,Education,18,London,81384.97931861137
+437,Female,49,Master,Education,5,Bangalore,77853.69395021774
+438,Male,51,Bachelor,Tech,32,Bangalore,227470.0559896759
+439,Male,59,Bachelor,Tech,39,London,250175.5632090047
+440,Male,25,High School,Healthcare,18,Bangalore,119985.11639107352
+441,Female,22,Bachelor,Education,0,New York,54072.45098659895
+442,Male,29,PhD,Retail,4,Bangalore,93564.95069377385
+443,Female,50,High School,Finance,26,London,143605.8308473502
+444,Female,24,Bachelor,Healthcare,15,Remote,103533.2607907642
+445,Male,53,High School,Tech,5,Bangalore,87110.62232611567
+446,Male,31,Master,Healthcare,39,San Francisco,239663.74970922738
+447,Female,31,Bachelor,Healthcare,12,New York,113062.47076165403
+448,Male,40,PhD,Healthcare,34,New York,245296.85935038078
+449,Female,55,Bachelor,Healthcare,18,San Francisco,134344.89386388575
+450,Female,54,High School,Finance,11,San Francisco,109114.99468497052
+451,Female,44,High School,Education,15,Bangalore,73052.73381720574
+452,Female,49,Bachelor,Retail,9,San Francisco,67977.26971178065
+453,Female,53,PhD,Healthcare,24,Remote,192632.65108694258
+454,Male,28,PhD,Healthcare,19,London,195305.97448660262
+455,Male,50,PhD,Healthcare,30,San Francisco,235730.67983372795
+456,Female,29,High School,Education,3,San Francisco,51339.65826135575
+457,Female,22,Bachelor,Tech,22,Remote,172561.50598793325
+458,Male,24,Master,Tech,1,New York,122806.80140724614
+459,Male,45,High School,Finance,21,New York,146302.05093637496
+460,Female,44,PhD,Tech,36,Bangalore,284949.8835346023
+461,Male,29,Bachelor,Healthcare,7,Remote,102955.26724973728
+462,Female,58,PhD,Healthcare,6,London,121342.20253789869
+463,Male,24,Master,Healthcare,13,London,140083.76416473914
+464,Female,54,PhD,Finance,2,Remote,124880.8322210878
+465,Male,49,PhD,Healthcare,15,London,178565.8381028452
+466,Female,29,Master,Tech,18,New York,181291.0856555222
+467,Male,55,Bachelor,Education,17,London,103250.60540353847
+468,Male,56,High School,Education,15,London,87231.32380225777
+469,Female,53,Bachelor,Retail,7,Remote,62247.82252970928
+470,Male,45,Master,Tech,32,Remote,258897.68398820594
+471,Female,35,PhD,Healthcare,11,London,141318.89424543962
+472,Male,53,Bachelor,Education,10,San Francisco,72151.66931600962
+473,Female,37,High School,Tech,4,Remote,75508.1648101866
+474,Male,25,Master,Education,26,Bangalore,143037.0602355813
+475,Female,58,Bachelor,Healthcare,11,Bangalore,91955.14808459066
+476,Male,42,High School,Education,16,New York,74604.16128785905
+477,Female,35,Master,Retail,5,London,65299.50718244839
+478,Male,52,High School,Retail,32,San Francisco,96712.91825127059
+479,Female,39,Master,Education,4,New York,72340.96748226442
+480,Female,28,PhD,Tech,27,London,255164.35070384247
+481,Female,31,Bachelor,Tech,13,Remote,137992.40405681965
+482,Male,28,High School,Tech,4,Bangalore,91503.39799110271
+483,Female,54,Master,Education,32,San Francisco,150412.20536392138
+484,Male,44,High School,Tech,18,Bangalore,134755.71381727906
+485,Female,42,High School,Healthcare,21,Remote,111509.4175438605
+486,Male,40,Bachelor,Retail,4,London,53547.570124941485
+487,Female,40,PhD,Healthcare,1,Remote,101101.5895286527
+488,Male,57,High School,Tech,29,Remote,176606.862980537
+489,Male,50,Master,Healthcare,38,Bangalore,238259.18955763188
+490,Female,39,Master,Tech,3,San Francisco,121203.44735597113
+491,Male,23,PhD,Education,32,Remote,177640.30334004172
+492,Male,22,Master,Healthcare,12,Bangalore,132857.3017959188
+493,Female,26,PhD,Education,19,San Francisco,125144.51633483946
+494,Male,41,Master,Education,6,London,95309.8573001717
+495,Male,32,Bachelor,Finance,14,London,152239.3424055404
+496,Male,23,High School,Tech,22,New York,150258.65907315674
+497,Female,24,Bachelor,Retail,13,Bangalore,76961.12669000674
+498,Male,44,High School,Tech,22,San Francisco,146442.84285551368
+499,Female,33,High School,Retail,18,Remote,66563.28769471317
+500,Male,41,High School,Tech,28,London,170262.1782356877
+501,Male,26,Bachelor,Education,19,San Francisco,109890.39728786222
+502,Male,58,High School,Healthcare,28,Bangalore,133466.41240105795
+503,Female,59,Bachelor,Healthcare,23,New York,140386.75117711237
+504,Male,51,PhD,Finance,17,London,206979.55060782985
+505,Male,30,Master,Retail,9,San Francisco,82898.75585135244
+506,Female,55,Master,Retail,7,San Francisco,80037.91475372198
+507,Male,56,High School,Retail,25,San Francisco,96798.48596167155
+508,Female,43,Bachelor,Education,28,Bangalore,113758.03590773515
+509,Female,45,Master,Retail,9,Bangalore,74430.41849700004
+510,Male,38,Bachelor,Healthcare,16,Bangalore,122353.63340598418
+511,Female,31,Bachelor,Education,1,Remote,56138.70506380395
+512,Male,51,High School,Tech,5,San Francisco,108766.51627872996
+513,Female,44,Master,Retail,4,London,64316.323302360375
+514,Female,53,High School,Retail,27,Bangalore,86843.7964157189
+515,Male,38,High School,Tech,4,Bangalore,88712.51338040369
+516,Female,38,Master,Retail,17,San Francisco,91906.125351332
+517,Female,35,Master,Tech,25,Bangalore,212312.32652901325
+518,Female,30,PhD,Education,19,Remote,127249.31199024027
+519,Female,23,PhD,Healthcare,26,Remote,199963.3366720528
+520,Female,46,Bachelor,Tech,11,Bangalore,126586.64057720668
+521,Male,30,Master,Finance,6,San Francisco,124922.05725588168
+522,Female,43,PhD,Tech,2,San Francisco,135210.45115161134
+523,Male,25,Bachelor,Retail,9,San Francisco,67127.25355364545
+524,Female,47,Bachelor,Education,33,New York,127813.02013750991
+525,Male,50,Bachelor,Education,24,Bangalore,118678.2843324421
+526,Male,55,PhD,Tech,34,San Francisco,303201.23402484006
+527,Female,44,Master,Healthcare,15,Remote,139645.62708620014
+528,Female,58,High School,Finance,1,London,69967.16402735516
+529,Female,32,Bachelor,Education,23,London,103955.2731099348
+530,Male,27,PhD,Retail,9,San Francisco,93953.08718017224
+531,Female,39,PhD,Retail,37,London,166832.95751116454
+532,Male,42,High School,Healthcare,21,London,128157.45104092034
+533,Male,57,High School,Education,25,New York,89938.3270811464
+534,Male,59,PhD,Tech,38,Remote,343934.135609541
+535,Female,55,Master,Retail,26,Remote,110848.46633742402
+536,Female,38,High School,Healthcare,28,New York,137712.18338490918
+537,Male,58,PhD,Education,37,New York,195134.95213930012
+538,Male,46,High School,Education,19,London,85415.41646954033
+539,Female,59,Master,Education,26,Bangalore,127283.36133461088
+540,Male,33,Bachelor,Education,19,London,102540.05177510256
+541,Female,44,High School,Education,18,New York,90021.9826891161
+542,Male,43,Master,Retail,19,Remote,108034.18400339685
+543,Female,42,PhD,Healthcare,34,London,225048.51783730654
+544,Male,48,High School,Education,1,Bangalore,51865.05378746473
+545,Female,52,High School,Finance,29,London,146363.32401537648
+546,Male,27,PhD,Finance,33,San Francisco,293809.6026714512
+547,Female,48,Bachelor,Healthcare,21,London,125124.59582153434
+548,Female,55,PhD,Tech,2,New York,126529.95696464297
+549,Male,33,High School,Tech,5,Remote,103683.30154923398
+550,Male,28,PhD,Tech,14,Remote,206131.76065383718
+551,Female,31,Master,Finance,26,New York,202666.07591250024
+552,Male,38,PhD,Tech,9,San Francisco,187185.82058342715
+553,Female,47,High School,Retail,8,New York,57819.0077416624
+554,Male,42,PhD,Education,32,London,181263.38172570575
+555,Female,49,Bachelor,Finance,31,New York,198606.713249259
+556,Female,23,PhD,Healthcare,5,New York,112058.31925601883
+557,Female,22,Bachelor,Healthcare,35,San Francisco,172298.45179503722
+558,Female,57,Master,Education,1,London,65367.79834248616
+559,Female,47,Bachelor,Finance,28,Bangalore,177567.8911699151
+560,Female,50,PhD,Tech,3,Bangalore,129053.9467151942
+561,Male,42,High School,Tech,0,Remote,74581.7508741975
+562,Male,32,Bachelor,Retail,18,New York,92902.00787189598
+563,Male,32,Master,Retail,25,Remote,120032.63107224673
+564,Female,57,Bachelor,Tech,24,San Francisco,185939.04394490639
+565,Female,56,Bachelor,Healthcare,9,Bangalore,97557.2883838238
+566,Female,55,Bachelor,Healthcare,14,New York,111062.55371254255
+567,Female,45,Master,Retail,21,San Francisco,108511.69893201327
+568,Male,43,PhD,Education,20,San Francisco,144570.9631872386
+569,Male,26,Bachelor,Tech,21,New York,181282.41286106477
+570,Female,54,Bachelor,Retail,35,San Francisco,111996.34126117779
+571,Male,57,High School,Retail,33,New York,120368.50901999538
+572,Male,41,Master,Tech,29,New York,251288.92881130872
+573,Female,40,Bachelor,Tech,24,London,181822.14788692197
+574,Male,56,Master,Healthcare,27,Remote,187077.27239883255
+575,Female,38,Bachelor,Education,0,San Francisco,51110.073067881625
+576,Male,55,PhD,Education,3,San Francisco,99265.72944145145
+577,Female,30,PhD,Tech,6,London,155784.65469677816
+578,Female,47,Bachelor,Finance,8,London,113168.11051866642
+579,Female,23,PhD,Retail,35,London,151692.14554101488
+580,Female,30,Bachelor,Retail,18,Bangalore,81389.82114021711
+581,Male,30,PhD,Tech,0,Bangalore,128619.44632371936
+582,Female,38,High School,Finance,9,Bangalore,89415.75334930679
+583,Female,22,High School,Healthcare,35,New York,148619.22092130507
+584,Female,46,High School,Tech,8,San Francisco,101694.15611396029
+585,Male,46,Master,Tech,31,Remote,262400.39408171136
+586,Female,56,Master,Retail,31,New York,123755.51006018867
+587,Male,24,High School,Tech,5,San Francisco,100278.19487566584
+588,Female,58,Master,Tech,37,San Francisco,258239.7811751293
+589,Male,51,PhD,Tech,16,London,212843.4596861485
+590,Male,59,Bachelor,Retail,9,London,80143.31218071088
+591,Female,55,Bachelor,Healthcare,26,New York,147487.5364842037
+592,Male,33,Bachelor,Healthcare,34,London,189449.27169143272
+593,Female,40,High School,Tech,20,San Francisco,139178.7700692875
+594,Female,58,Master,Retail,24,London,110430.20443116513
+595,Female,38,PhD,Healthcare,27,Bangalore,200883.16372012577
+596,Male,31,PhD,Healthcare,14,London,159302.87411523148
+597,Male,33,High School,Healthcare,3,San Francisco,69439.42485781707
+598,Female,37,PhD,Retail,28,New York,130940.92622435777
+599,Female,45,PhD,Retail,8,Remote,87507.29208410268
+600,Male,40,PhD,Tech,26,London,269634.4532641103
+601,Female,29,PhD,Education,25,San Francisco,139519.84218117205
+602,Female,52,Master,Healthcare,18,Remote,147380.49420817604
+603,Female,42,PhD,Education,27,Remote,152477.28230477052
+604,Male,38,Bachelor,Retail,16,Bangalore,83117.17004350318
+605,Male,44,High School,Retail,19,Remote,77300.86227685363
+606,Male,58,Master,Retail,39,San Francisco,160431.70837530238
+607,Female,37,PhD,Education,38,San Francisco,177148.22322940288
+608,Female,27,Master,Retail,22,London,108111.13382447975
+609,Female,29,PhD,Tech,31,London,270305.1180208178
+610,Male,46,Bachelor,Retail,32,London,115388.00147249489
+611,Female,39,High School,Finance,4,Remote,82298.98367499051
+612,Female,46,PhD,Education,33,Remote,168868.2429332795
+613,Female,33,PhD,Finance,39,Bangalore,283589.994369306
+614,Female,36,PhD,Retail,10,London,86863.58175066895
+615,Male,47,PhD,Tech,2,New York,137517.90034534404
+616,Male,47,High School,Healthcare,32,Bangalore,148235.00515438052
+617,Female,53,High School,Retail,10,New York,55939.58994781426
+618,Male,31,Bachelor,Tech,15,Remote,155677.3892065284
+619,Male,37,High School,Education,17,Bangalore,75735.56050878056
+620,Female,28,PhD,Finance,29,Bangalore,238477.05987681687
+621,Female,38,Bachelor,Finance,9,San Francisco,112153.53946593999
+622,Male,44,Bachelor,Finance,17,Remote,159316.19354816122
+623,Female,47,Bachelor,Education,37,Remote,136893.82457388466
+624,Male,42,PhD,Tech,18,Bangalore,231221.10539437504
+625,Female,43,Master,Education,35,Remote,147504.90551500517
+626,Male,28,PhD,Finance,12,Bangalore,183043.75389539675
+627,Female,35,High School,Retail,2,San Francisco,31084.76750499233
+628,Male,36,High School,Healthcare,9,Bangalore,91904.60199090495
+629,Male,28,PhD,Education,37,Remote,199470.48836950402
+630,Male,30,PhD,Education,0,Remote,77441.87416069538
+631,Female,29,Bachelor,Tech,26,Bangalore,185077.14905860892
+632,Male,44,PhD,Tech,7,Bangalore,161385.37862314974
+633,Male,50,Bachelor,Education,16,Bangalore,93410.6650480009
+634,Female,39,High School,Finance,8,London,96227.24619216137
+635,Female,52,Bachelor,Healthcare,5,Remote,88956.26639269787
+636,Male,51,PhD,Tech,24,Remote,256660.7274447762
+637,Male,56,High School,Finance,38,London,198096.81158702358
+638,Female,39,Master,Retail,27,Bangalore,117171.49058399953
+639,Female,38,Bachelor,Tech,32,San Francisco,202678.8951803892
+640,Female,35,High School,Finance,36,Bangalore,169885.86344698354
+641,Female,52,Bachelor,Finance,8,Bangalore,108602.91154344233
+642,Female,45,High School,Healthcare,17,London,94881.12024590735
+643,Male,56,High School,Healthcare,20,Remote,125083.42902951052
+644,Female,55,Bachelor,Retail,1,Bangalore,47079.877833537044
+645,Male,24,Master,Finance,37,Remote,263182.1964285154
+646,Male,58,High School,Finance,39,New York,189473.25839743324
+647,Male,47,High School,Healthcare,35,Remote,145220.16066205438
+648,Female,44,High School,Tech,36,San Francisco,186507.48434059494
+649,Male,36,Master,Tech,14,San Francisco,184148.04343518105
+650,Male,25,Master,Education,27,Bangalore,150109.19292297354
+651,Female,50,PhD,Healthcare,17,Remote,160534.8034191491
+652,Male,43,Bachelor,Education,33,Bangalore,136198.03736353203
+653,Male,46,Master,Healthcare,21,London,167477.3844334843
+654,Female,34,Bachelor,Retail,10,San Francisco,65117.211850808984
+655,Male,39,PhD,Finance,12,Bangalore,187934.95175370097
+656,Male,54,Bachelor,Retail,3,London,59003.423756355216
+657,Male,37,Master,Healthcare,21,Bangalore,171906.35398000703
+658,Female,23,Bachelor,Finance,6,Remote,101949.96584019798
+659,Female,56,Master,Tech,23,Remote,208204.23953110352
+660,Female,55,Bachelor,Tech,3,Remote,91276.30560282631
+661,Male,51,Master,Education,27,Remote,138041.37912640977
+662,Male,34,Master,Healthcare,14,New York,146042.5526211728
+663,Female,34,Bachelor,Healthcare,0,London,80753.05375615468
+664,Male,39,PhD,Tech,2,London,141434.49900120616
+665,Male,53,High School,Retail,13,Remote,62668.14597136328
+666,Female,53,PhD,Finance,37,New York,282763.31352579175
+667,Female,56,Bachelor,Retail,0,Remote,49618.492210074495
+668,Male,50,PhD,Retail,37,New York,181043.06905997123
+669,Male,50,Master,Tech,37,Remote,279988.2445762783
+670,Male,37,High School,Tech,20,San Francisco,154558.34243005462
+671,Female,31,Bachelor,Tech,28,San Francisco,183057.71271615865
+672,Female,51,Bachelor,Education,4,Bangalore,61199.13926922566
+673,Female,46,Bachelor,Retail,9,Remote,67343.91376411963
+674,Female,41,High School,Healthcare,27,London,125730.06689099547
+675,Male,26,Master,Finance,20,Bangalore,199342.9616799118
+676,Female,22,Bachelor,Education,6,San Francisco,57826.69991495388
+677,Female,51,PhD,Healthcare,2,Remote,104385.03739849519
+678,Female,24,Bachelor,Retail,19,Bangalore,90478.21016391974
+679,Female,35,Bachelor,Tech,18,Remote,155096.47113536048
+680,Female,51,Bachelor,Retail,34,San Francisco,107568.30160116649
+681,Male,25,Bachelor,Finance,3,Bangalore,108525.53697413328
+682,Male,39,Master,Education,4,San Francisco,77146.44864928152
+683,Female,58,PhD,Education,0,New York,67878.38493968561
+684,Male,46,Master,Finance,3,San Francisco,115985.32123558248
+685,Female,22,PhD,Healthcare,11,Remote,137246.5744352552
+686,Female,36,Bachelor,Healthcare,26,London,147795.30110186434
+687,Male,30,High School,Education,22,San Francisco,86714.49972648462
+688,Male,36,Master,Education,24,London,130509.77061635027
+689,Female,45,High School,Tech,20,New York,131527.58562068891
+690,Female,25,Master,Healthcare,23,Bangalore,156505.0567605668
+691,Female,33,Bachelor,Finance,24,Bangalore,164823.79113274714
+692,Male,58,Master,Healthcare,31,London,208782.10798200444
+693,Female,58,Bachelor,Tech,31,Bangalore,202719.36905133296
+694,Female,27,Master,Education,4,San Francisco,74206.65944373902
+695,Female,45,Bachelor,Education,35,London,137954.95857644305
+696,Male,32,Bachelor,Tech,38,Remote,251598.41799813582
+697,Female,34,PhD,Finance,15,San Francisco,183119.82123944623
+698,Female,55,Bachelor,Education,32,San Francisco,121046.92125111514
+699,Male,46,PhD,Retail,20,San Francisco,131440.03071330747
+700,Female,28,Bachelor,Education,8,Remote,68968.2373810334
+701,Female,25,High School,Retail,5,New York,50057.24163794295
+702,Male,29,Bachelor,Tech,34,Bangalore,226783.16565908812
+703,Female,41,High School,Tech,38,London,189831.1706599406
+704,Male,50,High School,Education,21,New York,86203.09882415333
+705,Male,31,Bachelor,Healthcare,4,London,96552.17827241955
+706,Female,55,High School,Retail,22,Bangalore,79579.38230999392
+707,Female,47,PhD,Finance,16,Remote,181346.86306220453
+708,Female,24,Master,Education,11,San Francisco,100967.8746431227
+709,Female,27,Bachelor,Finance,22,San Francisco,156490.60851903263
+710,Male,26,High School,Education,15,Remote,71139.90549663737
+711,Female,26,Bachelor,Healthcare,2,New York,73864.4101481866
+712,Male,44,PhD,Healthcare,29,New York,222875.29488821077
+713,Female,30,Bachelor,Healthcare,21,London,134378.01050893127
+714,Female,56,Bachelor,Healthcare,8,Remote,88863.18486663773
+715,Female,41,High School,Tech,28,New York,156303.92992096877
+716,Male,56,PhD,Tech,36,Remote,323652.76085268386
+717,Female,39,Master,Retail,22,Bangalore,105973.22947355901
+718,Female,38,Master,Finance,12,San Francisco,144976.7809382911
+719,Female,45,High School,Education,31,San Francisco,101430.00259522034
+720,Female,24,Bachelor,Education,22,San Francisco,99667.49951246173
+721,Male,53,High School,Tech,16,Remote,127281.23972166835
+722,Female,56,High School,Education,39,Remote,113215.80889627678
+723,Male,59,High School,Tech,20,London,150843.74892157642
+724,Male,34,Bachelor,Retail,1,San Francisco,54227.325056952985
+725,Male,46,PhD,Finance,36,London,302565.4418656525
+726,Male,30,High School,Retail,5,San Francisco,49866.08485245258
+727,Male,25,Bachelor,Healthcare,17,London,138027.68039938965
+728,Male,35,PhD,Healthcare,29,London,215314.41066264335
+729,Female,58,High School,Healthcare,21,Bangalore,111107.20256461677
+730,Male,55,Master,Retail,32,London,147192.4017356064
+731,Male,32,PhD,Education,29,Remote,178560.49258020733
+732,Male,24,High School,Finance,16,London,125120.86915378763
+733,Female,49,PhD,Healthcare,31,San Francisco,208409.00922178559
+734,Female,50,PhD,Healthcare,13,London,152752.3642117168
+735,Male,30,PhD,Healthcare,9,New York,143356.6741659722
+736,Female,24,PhD,Finance,35,San Francisco,268005.15230365057
+737,Male,46,PhD,Healthcare,33,New York,240527.72679561138
+738,Male,55,PhD,Finance,8,San Francisco,156374.5625957087
+739,Female,33,High School,Healthcare,27,Remote,127619.31584462177
+740,Male,30,Master,Retail,10,Remote,89589.3572737933
+741,Female,36,Bachelor,Retail,13,Remote,73967.7200089971
+742,Female,46,PhD,Finance,38,New York,278419.7710920308
+743,Male,26,Bachelor,Retail,18,Bangalore,85491.00587445426
+744,Male,32,High School,Finance,14,San Francisco,112958.75672390054
+745,Female,55,PhD,Retail,27,Remote,130317.27411961014
+746,Male,45,Master,Retail,23,San Francisco,113242.7321762552
+747,Male,36,Bachelor,Finance,7,New York,109725.45152354479
+748,Male,59,PhD,Education,8,Bangalore,107800.72506176526
+749,Female,29,High School,Retail,32,New York,84604.68069257516
+750,Female,26,Master,Healthcare,32,San Francisco,196439.61340715367
+751,Male,47,Bachelor,Education,18,Bangalore,104138.35855056733
+752,Female,39,Bachelor,Finance,2,Bangalore,92191.705938092
+753,Female,27,PhD,Education,9,New York,106246.54523030046
+754,Female,58,Master,Tech,39,Remote,262370.98682967736
+755,Female,34,Master,Tech,0,San Francisco,109368.85998024399
+756,Female,49,Master,Retail,28,London,117231.78713489283
+757,Male,26,Master,Retail,33,London,155767.3507831477
+758,Male,34,High School,Healthcare,12,New York,95776.02784430397
+759,Male,38,Master,Education,0,San Francisco,66588.45831937192
+760,Female,53,Bachelor,Tech,33,San Francisco,210927.67887428633
+761,Female,50,Bachelor,Retail,28,New York,100715.4573389568
+762,Male,24,High School,Education,12,San Francisco,69467.68518850065
+763,Female,55,Bachelor,Retail,28,Remote,96908.61608032082
+764,Male,48,Bachelor,Retail,38,New York,140347.022441937
+765,Male,34,Master,Tech,23,Remote,215942.69184050008
+766,Male,54,Bachelor,Tech,25,San Francisco,199115.43780190253
+767,Female,27,High School,Retail,16,New York,70880.92069813047
+768,Female,45,Master,Finance,6,San Francisco,127042.47492721314
+769,Male,40,PhD,Retail,12,New York,101183.73798909281
+770,Male,37,Master,Retail,4,San Francisco,70425.0759968712
+771,Male,49,High School,Healthcare,25,Remote,129999.03249492813
+772,Male,54,Master,Healthcare,2,Remote,92116.90618667065
+773,Female,34,Master,Healthcare,6,San Francisco,106847.58691510058
+774,Female,46,High School,Finance,38,New York,176592.51822817404
+775,Male,57,Master,Finance,0,London,115002.9254030094
+776,Male,48,High School,Retail,16,Remote,68043.97451349288
+777,Female,59,High School,Healthcare,24,Remote,123043.48279308848
+778,Female,28,PhD,Finance,2,London,126756.17075142103
+779,Male,26,Bachelor,Tech,14,San Francisco,154675.35843403943
+780,Male,52,Bachelor,Retail,28,New York,101081.69214583166
+781,Male,44,Master,Education,31,San Francisco,152669.16171277856
+782,Female,31,Master,Retail,25,Bangalore,120929.35562152059
+783,Female,53,PhD,Education,15,Remote,116685.27885745955
+784,Female,51,PhD,Healthcare,24,Bangalore,191626.99852935944
+785,Male,52,PhD,Education,27,Remote,164290.16709182516
+786,Male,39,High School,Healthcare,8,Remote,86002.78545068436
+787,Female,57,PhD,Tech,0,Bangalore,110663.27715650247
+788,Female,23,PhD,Education,28,Bangalore,156613.69608527655
+789,Male,35,Master,Retail,21,San Francisco,118742.4060236119
+790,Female,34,PhD,Healthcare,15,Bangalore,148845.68857266655
+791,Female,50,High School,Retail,6,San Francisco,48705.72439245846
+792,Male,33,High School,Finance,13,San Francisco,115471.29361322855
+793,Female,23,Master,Healthcare,28,San Francisco,180180.76646993143
+794,Male,53,PhD,Education,18,Remote,133502.18209245452
+795,Male,34,PhD,Healthcare,18,Remote,186288.70461591505
+796,Male,48,High School,Retail,1,Bangalore,46116.62158062245
+797,Male,38,PhD,Tech,14,Remote,193172.88472207653
+798,Male,52,PhD,Healthcare,2,Bangalore,116261.60137596323
+799,Male,55,PhD,Education,10,Remote,115861.75493795394
+800,Male,45,Bachelor,Finance,29,New York,193823.69169867533
+801,Female,56,Master,Tech,39,New York,270843.63467487285
+802,Male,27,Bachelor,Finance,17,Bangalore,164381.79834877103
+803,Male,40,Master,Healthcare,1,Remote,96656.3318758912
+804,Female,51,High School,Retail,31,Remote,95308.14432164744
+805,Female,28,PhD,Retail,7,San Francisco,79709.2251488174
+806,Female,31,Master,Education,21,London,115830.1785577142
+807,Male,53,Bachelor,Retail,5,Bangalore,62336.89356036828
+808,Female,55,PhD,Tech,11,London,170864.39786826223
+809,Male,49,High School,Retail,39,London,111901.38977458463
+810,Male,36,Master,Education,35,Bangalore,158166.59109537842
+811,Male,51,Master,Healthcare,14,Remote,142489.5993280835
+812,Male,58,Master,Healthcare,27,Bangalore,198881.03227713396
+813,Female,50,PhD,Retail,17,London,102701.54971574084
+814,Female,43,Bachelor,Finance,1,Remote,82029.33364263344
+815,Male,25,Bachelor,Healthcare,12,New York,117522.06185697379
+816,Male,41,Master,Retail,14,Bangalore,96651.91571678624
+817,Male,53,High School,Education,19,Bangalore,89007.32359526993
+818,Female,57,High School,Retail,28,Remote,84231.30713407681
+819,Male,25,Bachelor,Healthcare,28,New York,168263.32082229166
+820,Male,48,High School,Education,2,New York,51705.576131855014
+821,Female,38,Bachelor,Retail,18,Remote,76181.01922350017
+822,Female,33,Master,Tech,2,San Francisco,113043.04065844674
+823,Male,43,Bachelor,Education,13,Bangalore,93910.98498221234
+824,Female,38,Bachelor,Tech,39,Bangalore,232975.27313176167
+825,Female,31,Master,Finance,3,London,101038.78936530356
+826,Male,22,High School,Education,10,Remote,70559.62681654541
+827,Female,43,Bachelor,Tech,30,London,193536.15237071415
+828,Male,47,Bachelor,Healthcare,31,London,184368.8200261069
+829,Female,39,Master,Healthcare,26,New York,172991.3489146419
+830,Male,35,High School,Finance,29,Bangalore,170801.41980065304
+831,Male,50,Bachelor,Education,1,London,61881.8407220743
+832,Male,33,Master,Education,8,New York,91145.72500551264
+833,Female,57,Bachelor,Education,27,Remote,119799.22458826624
+834,Male,56,PhD,Finance,30,London,275903.8719831251
+835,Female,33,Master,Education,33,Bangalore,146749.29326123773
+836,Male,28,High School,Healthcare,14,London,101961.66786931302
+837,Male,50,High School,Tech,24,Remote,153164.12637234567
+838,Female,32,High School,Healthcare,35,London,145622.8376743707
+839,Male,54,High School,Healthcare,7,Bangalore,83849.48015340143
+840,Male,27,Bachelor,Tech,8,New York,133449.7802354114
+841,Female,36,Bachelor,Healthcare,36,Bangalore,179969.09420767394
+842,Male,53,High School,Finance,38,New York,200204.60547523625
+843,Male,32,High School,Tech,31,San Francisco,186484.96455447204
+844,Male,44,High School,Healthcare,16,Bangalore,103008.19767435899
+845,Male,47,Bachelor,Retail,34,Bangalore,113861.43224540935
+846,Female,55,High School,Healthcare,36,Remote,142276.50069821606
+847,Female,55,High School,Finance,18,London,127067.44249752532
+848,Male,50,PhD,Education,28,New York,177021.4573464972
+849,Female,25,PhD,Healthcare,6,New York,117850.49624115412
+850,Male,38,High School,Education,27,Remote,95655.20372858825
+851,Female,56,Master,Retail,8,Remote,70677.9321249858
+852,Male,34,High School,Healthcare,27,London,142969.02911348935
+853,Male,36,PhD,Tech,5,London,155444.93413236446
+854,Male,50,Master,Education,28,Bangalore,149861.61973833758
+855,Male,50,Master,Retail,16,San Francisco,101866.79150649019
+856,Male,32,High School,Tech,15,London,135550.01629518528
+857,Male,53,PhD,Tech,22,Remote,257250.05499473523
+858,Female,23,PhD,Tech,30,London,266948.9073776717
+859,Male,35,Master,Tech,2,New York,125474.58138318967
+860,Female,41,High School,Healthcare,20,San Francisco,117641.8678290446
+861,Male,43,Bachelor,Healthcare,25,Bangalore,160147.7605081253
+862,Female,32,Bachelor,Healthcare,35,New York,168835.262513342
+863,Female,48,PhD,Retail,36,New York,159597.32644884742
+864,Female,24,Bachelor,Retail,21,San Francisco,90557.27771066486
+865,Male,38,PhD,Retail,11,Bangalore,99836.48828864701
+866,Male,49,PhD,Finance,12,Remote,179748.06973766867
+867,Female,50,PhD,Retail,10,Bangalore,88108.70256342545
+868,Male,42,Bachelor,Healthcare,15,London,124060.55321249123
+869,Female,37,PhD,Healthcare,7,New York,121551.20090643554
+870,Male,58,Master,Finance,39,London,271754.0169887907
+871,Female,41,High School,Finance,39,Remote,181130.77344079906
+872,Female,27,High School,Retail,1,London,43156.006569794095
+873,Male,40,PhD,Education,29,Bangalore,172798.00888614735
+874,Female,26,High School,Finance,29,London,150888.15330281673
+875,Male,24,Bachelor,Tech,11,Remote,141671.68371987468
+876,Female,22,Bachelor,Healthcare,9,Remote,105130.02898826757
+877,Female,59,High School,Tech,10,Remote,105337.02943418901
+878,Male,36,Bachelor,Healthcare,14,Bangalore,129870.8342302774
+879,Male,55,High School,Healthcare,15,Remote,100617.92008416845
+880,Male,56,High School,Finance,16,New York,129225.8891710069
+881,Female,46,High School,Finance,25,Remote,136326.48481669993
+882,Male,45,PhD,Tech,1,London,134499.24035853334
+883,Female,33,High School,Healthcare,11,London,84340.47080036224
+884,Female,39,PhD,Tech,25,London,237627.00515698112
+885,Male,36,High School,Education,22,Bangalore,90711.97671759076
+886,Male,37,High School,Tech,17,London,144686.3754494528
+887,Female,48,High School,Retail,31,Bangalore,89827.0558655882
+888,Female,29,Bachelor,Tech,37,Bangalore,224325.27694604805
+889,Male,46,PhD,Retail,2,Remote,73746.20018224276
+890,Male,38,PhD,Retail,37,New York,178876.69651859056
+891,Male,50,High School,Retail,2,Remote,49295.28139119461
+892,Male,29,High School,Education,29,Remote,105375.35677825133
+893,Male,36,Bachelor,Tech,0,Bangalore,91078.5805368668
+894,Female,48,Bachelor,Tech,29,Bangalore,195481.48229200934
+895,Female,28,Bachelor,Education,31,London,123838.39761267729
+896,Female,24,PhD,Healthcare,27,London,194785.76080838326
+897,Female,50,PhD,Finance,20,Remote,200123.02690650418
+898,Male,45,PhD,Tech,12,San Francisco,198045.80250730482
+899,Male,24,High School,Finance,26,San Francisco,149225.35971439118
+900,Male,41,PhD,Education,35,London,186835.73908295057
+901,Female,36,Master,Healthcare,6,San Francisco,106044.544708132
+902,Female,46,Master,Healthcare,21,London,160085.09219425806
+903,Male,51,Bachelor,Healthcare,9,Bangalore,118640.89906135586
+904,Male,35,PhD,Education,38,Remote,209377.27384183547
+905,Female,28,Master,Retail,14,New York,88078.84741158005
+906,Female,38,Bachelor,Retail,14,Remote,72458.86559259024
+907,Male,41,PhD,Finance,3,London,142599.61133885442
+908,Male,57,High School,Retail,31,London,95842.03538138173
+909,Female,30,Master,Retail,22,Remote,101469.52357527174
+910,Male,59,High School,Healthcare,5,London,77673.6697381745
+911,Male,43,PhD,Healthcare,23,San Francisco,200598.63349911448
+912,Male,23,Master,Finance,19,San Francisco,191791.15311532936
+913,Female,45,PhD,Tech,36,London,289787.9918893282
+914,Female,29,High School,Finance,19,London,123625.61028648906
+915,Female,32,Master,Finance,11,San Francisco,149094.7672570266
+916,Female,34,High School,Education,32,London,103210.70357037024
+917,Female,38,PhD,Education,27,London,157343.7114406089
+918,Female,29,PhD,Finance,7,Remote,149370.28300532975
+919,Female,42,High School,Finance,0,New York,72960.20118350316
+920,Male,39,Master,Finance,36,San Francisco,261261.2360503074
+921,Male,51,High School,Retail,21,Remote,86162.53988674552
+922,Male,39,PhD,Education,5,New York,93790.12540680965
+923,Male,52,High School,Finance,20,London,138589.95172486518
+924,Male,59,PhD,Healthcare,31,London,238194.993370828
+925,Male,53,High School,Healthcare,34,Remote,155733.1626380326
+926,Male,32,Master,Retail,14,London,92494.66140794734
+927,Female,46,Master,Retail,4,Bangalore,57324.50542508565
+928,Female,54,High School,Tech,5,Remote,94795.66465162739
+929,Male,59,High School,Tech,24,New York,164551.7106340318
+930,Male,29,Master,Tech,39,Remote,287076.9450375183
+931,Female,32,PhD,Retail,28,San Francisco,131946.0632523157
+932,Male,43,Master,Retail,6,Remote,77279.32714636692
+933,Male,45,PhD,Retail,39,London,182436.86176780285
+934,Female,38,High School,Healthcare,12,London,81207.73170516454
+935,Male,33,High School,Retail,37,Bangalore,108673.8066672879
+936,Female,53,PhD,Healthcare,17,Bangalore,163978.27297626983
+937,Male,36,High School,Tech,1,Bangalore,84042.4409905036
+938,Female,37,PhD,Tech,7,New York,154879.14824217197
+939,Female,43,Bachelor,Tech,10,Bangalore,123562.24058977762
+940,Female,49,Master,Finance,32,New York,227985.9817584976
+941,Male,41,Bachelor,Finance,37,Bangalore,225155.57143066867
+942,Female,54,PhD,Education,26,New York,141169.6088045281
+943,Male,31,Master,Education,19,Remote,122112.63432030777
+944,Male,53,PhD,Education,11,Remote,106880.37013855754
+945,Male,54,Master,Finance,30,London,226634.44405968607
+946,Male,23,Master,Finance,26,New York,225330.6764902701
+947,Female,54,Master,Education,31,San Francisco,136198.8775921959
+948,Female,54,Master,Education,9,London,79011.74208708093
+949,Male,34,PhD,Retail,2,Remote,71973.20611525196
+950,Male,51,Master,Education,26,New York,137088.746842946
+951,Female,54,Master,Retail,34,Bangalore,131449.44269418227
+952,Male,34,Bachelor,Healthcare,30,San Francisco,168772.56633157015
+953,Female,47,High School,Finance,14,Remote,111690.93071128077
+954,Male,43,High School,Education,15,London,82431.17065578858
+955,Male,23,Bachelor,Finance,12,New York,130377.04274692232
+956,Female,59,Bachelor,Finance,34,San Francisco,195149.51688525805
+957,Male,47,PhD,Finance,10,New York,169864.71379980707
+958,Female,36,PhD,Healthcare,20,Bangalore,171974.96319316828
+959,Male,55,PhD,Tech,10,London,190213.41758491844
+960,Male,32,Bachelor,Education,29,New York,134005.56707501307
+961,Male,24,Bachelor,Tech,34,Remote,246134.33693082895
+962,Female,27,Master,Tech,21,London,181853.1303542291
+963,Male,30,PhD,Tech,37,Remote,322738.5213842419
+964,Male,27,PhD,Finance,30,New York,280110.0459053749
+965,Male,30,PhD,Retail,13,London,98004.49841111584
+966,Male,52,High School,Finance,23,Remote,156796.32532085353
+967,Female,53,Master,Finance,31,Bangalore,220256.75636571622
+968,Female,33,PhD,Tech,35,Bangalore,288920.6638651127
+969,Male,29,PhD,Finance,31,New York,269569.01006940263
+970,Female,29,PhD,Tech,14,London,184944.18389997853
+971,Male,49,High School,Retail,34,San Francisco,112576.88179854954
+972,Male,41,High School,Education,2,London,53221.584323793875
+973,Male,28,Bachelor,Tech,15,Bangalore,156177.504858949
+974,Female,32,Master,Retail,4,Remote,66988.59598189617
+975,Female,41,Bachelor,Education,20,San Francisco,96238.91199848671
+976,Female,37,Master,Healthcare,9,New York,115965.7557490322
+977,Female,25,High School,Tech,18,San Francisco,124751.29333920039
+978,Female,27,PhD,Tech,24,New York,234814.23675695946
+979,Female,43,Bachelor,Healthcare,3,San Francisco,77434.61867279641
+980,Female,47,PhD,Healthcare,28,New York,194500.1667965266
+981,Female,24,Bachelor,Tech,18,New York,157209.78893623842
+982,Female,35,High School,Healthcare,1,San Francisco,56231.13579222222
+983,Male,32,High School,Finance,9,San Francisco,103896.29534947951
+984,Female,39,High School,Education,24,New York,92830.34122913955
+985,Female,33,Bachelor,Education,19,Bangalore,87550.93271729785
+986,Female,44,Master,Education,18,San Francisco,111383.42048474801
+987,Female,33,Bachelor,Finance,22,London,156420.9327151567
+988,Female,34,Master,Healthcare,23,Remote,156447.3829953647
+989,Female,46,Bachelor,Retail,10,New York,77314.61644443034
+990,Female,40,Bachelor,Healthcare,33,New York,167037.21852122582
+991,Female,57,High School,Tech,27,Remote,153159.5355521163
+992,Female,29,PhD,Education,4,Bangalore,79618.93538816799
+993,Female,50,PhD,Healthcare,4,Remote,115765.81234218348
+994,Female,53,Master,Retail,20,San Francisco,97739.71886768294
+995,Male,39,PhD,Tech,11,Remote,193862.59049270515
+996,Male,27,Bachelor,Finance,3,New York,103475.60084438421
+997,Female,39,Bachelor,Finance,19,Remote,153420.94032216922
+998,Female,40,High School,Retail,37,London,93987.30276258558
+999,Male,43,High School,Tech,24,San Francisco,157184.68380451997
