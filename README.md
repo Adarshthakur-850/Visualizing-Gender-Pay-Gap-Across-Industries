@@ -120,16 +120,3 @@ Machine Learning & Data Science Enthusiast
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
-
----
-
-### ✅ What to do now
-
-Create a file named `README.md` in your project folder and paste this.
-Then run:
-
-```bash
-git add README.md
-git commit -m "Added professional README"
-git push
-```
