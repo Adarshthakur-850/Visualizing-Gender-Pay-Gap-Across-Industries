@@ -10,10 +10,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        python-version: ["3.10"]
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -21,25 +17,21 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: ${{ matrix.python-version }}
+          python-version: "3.10"
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pandas numpy matplotlib seaborn jupyter nbconvert
-
+          pip install pandas numpy matplotlib seaborn scikit-learn jupyter nbconvert
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           fi
 
-      - name: Execute Jupyter Notebooks
+      - name: Ensure src is a package
         run: |
-          for nb in $(find . -name "*.ipynb"); do
-            jupyter nbconvert --to notebook --execute "$nb" --output "$nb"
-          done
+          touch src/__init__.py
+          touch src/models/__init__.py
 
-      - name: Run Python scripts (if any)
+      - name: Run training pipeline as module
         run: |
-          for script in $(find . -name "*.py"); do
-            python "$script"
-          done
+          python -m src.models.train_model
