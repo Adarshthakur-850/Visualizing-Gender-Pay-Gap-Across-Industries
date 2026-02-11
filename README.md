@@ -1,9 +1,3 @@
-Great project choice. This topic is strong for data science, visualization, and social impact — perfect for recruiters.
-
-Below is a **ready-to-paste `README.md`** tailored for your repo.
-
----
-
 # 📊 Visualizing Gender Pay Gap Across Industries
 
 A data visualization and analytical project that explores **gender-based salary disparities** across different industries using real-world datasets.
